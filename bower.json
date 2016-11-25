@@ -1,0 +1,21 @@
+{
+  "name": "angular-card-ex",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Surendra Chaluvadi <surendra.chaluvadi@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chaluvadis/angular-card-ex",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
